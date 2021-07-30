@@ -1,2 +1,2 @@
 # project-1
-predicting home prices in bangalore
+Predicting Home Prices in Bangalore (regression model)
